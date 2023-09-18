@@ -12,6 +12,8 @@
     "lint": "pnpm run -r lint"
   },
   "dependencies": {
+    "@changesets/cli": "^2.26.2",
+    "changesets": "^1.0.2",
     "dotenv-cli": "^7.3.0"
   },
   "keywords": []

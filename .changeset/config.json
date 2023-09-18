@@ -1,0 +1,9 @@
+{
+  "$schema": "https://unpkg.com/@changesets/config@2.3.1/schema.json",
+  "changelog": ["@monorepo/api", "@monorepo/web"],
+  "commit": false,
+  "access": "public",
+  "baseBranch": "main",
+  "updateInternalDependencies": "patch",
+  "ignore": ["packages/*"]
+}

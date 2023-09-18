@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "@monorepo/web",
   "version": "0.1.0",
   "description": "Next.JS web frontend for the monorepo.",
   "author": "Erick Koga",
