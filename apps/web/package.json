@@ -4,7 +4,6 @@
   "description": "Next.JS web frontend for the monorepo.",
   "author": "Erick Koga",
   "license": "UNLICENSED",
-  "private": true,
   "scripts": {
     "dev": "next dev -p ${WEB_PORT}",
     "build": "next build",
