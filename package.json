@@ -9,7 +9,9 @@
     "dev": "dotenv -c development -- pnpm run -r dev",
     "build": "pnpm run -r build",
     "start": "dotenv -- pnpm run -r start",
-    "lint": "pnpm run -r lint"
+    "lint": "pnpm run -r lint",
+    "version-packages": "changeset version",
+    "release": "changeset publish"
   },
   "dependencies": {
     "@changesets/cli": "^2.26.2",
