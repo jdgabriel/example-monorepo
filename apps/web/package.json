@@ -1,6 +1,6 @@
 {
   "name": "@monorepo/web",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Next.JS web frontend for the monorepo.",
   "author": "Erick Koga",
   "license": "UNLICENSED",

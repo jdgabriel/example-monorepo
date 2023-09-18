@@ -1,6 +1,6 @@
 {
   "name": "@monorepo/api",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "NestJS REST API for the monorepo.",
   "author": "Erick Koga",
   "license": "UNLICENSED",
