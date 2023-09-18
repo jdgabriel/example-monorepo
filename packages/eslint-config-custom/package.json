@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-custom",
+  "version": "0.1.0",
+  "description": "ESLINT configuration for the monorepo.",
+  "author": "Erick Koga",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0"
+  },
+  "devDependencies": {
+    "@vercel/style-guide": "^5.0.0",
+    "eslint-config-turbo": "^1.10.12"
+  }
+}

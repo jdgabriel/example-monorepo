@@ -1,0 +1,18 @@
+{
+  "name": "example-monorepo",
+  "version": "0.1.0",
+  "description": "PNPM monorepo containing a NestJS API and Next.js web.",
+  "author": "Erick Koga",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "dev": "dotenv -c development -- pnpm run -r dev",
+    "build": "pnpm run -r build",
+    "start": "dotenv -- pnpm run -r start",
+    "lint": "pnpm run -r lint"
+  },
+  "dependencies": {
+    "dotenv-cli": "^7.3.0"
+  },
+  "keywords": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tailwind-config",
+  "version": "0.1.0",
+  "description": "Tailwind CSS configuration for the monorepo.",
+  "author": "Erick Koga",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "index.ts",
+  "types": "index.ts",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
