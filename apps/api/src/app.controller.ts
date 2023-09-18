@@ -11,7 +11,7 @@ export class AppController {
   }
 
   @Get()
-  teste1(): string {
-    return 'teste 1';
+  teste2(): string {
+    return 'teste 2';
   }
 }
